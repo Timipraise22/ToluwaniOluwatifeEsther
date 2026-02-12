@@ -28,7 +28,7 @@ const finalContent = document.getElementById("finalContent");
 const music = document.getElementById("bgMusic");
 
 let index = 0;
-let typingSpeed = 10;
+let typingSpeed = 100;
 
 music.play();
 typeEffect();
