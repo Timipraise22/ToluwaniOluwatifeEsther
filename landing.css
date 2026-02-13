@@ -15,7 +15,7 @@ body::before, body::after {
     position: absolute;
     top: 0; bottom: 0;
     width: 50%;
-    background-size: cover;
+    background-size: initial;
     background-position: center;
     z-index: -1;
 }
