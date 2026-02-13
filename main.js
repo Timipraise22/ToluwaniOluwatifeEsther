@@ -16,7 +16,7 @@ function createEmojis() {
 createEmojis();
 
 const messageText =
-"Oluwatife Toluwanimi\n" +
+" To Oluwatife Toluwanimi:\n" +
 "Idunnu mi\n" +
 "Olarenwaju mi \n"+
 "Coming this far with you and still getting to know youu more everyday feels so special to me. With you,I feel at peace, I feel guienely loved especially in the way you treat me and even get annoyed over things that could hurt me even when they dont affect you directly.That alone shows how deeply you care.❤️\n\n" +

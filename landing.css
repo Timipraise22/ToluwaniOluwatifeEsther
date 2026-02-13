@@ -5,11 +5,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     text-align: center;
     color: #ffeef2;
-    position: relative;
-    overflow: hidden;
+    
 }
 
 body::before, body::after {
